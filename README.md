@@ -1,10 +1,3 @@
-Hi there 👋
-- 🔭 I'm currently working on exciting projects in Data Science.
-- 🌱 I'm constantly learning and growing by exploring new information on the field.
-- 👯 I'm currently seeking guidance with Programming with Bash.
-- 🤔 Feel free to ask me about operations with Linux's distributions.
-- 📫 You can reach me at my instagram, it is on my profile :D.
-
-
+👋 Hi there! I'm a passionate Computer Science student with a keen interest in AI, investing, and economics. My journey in the tech world has just begun, and I'm excited to explore everything it has to offer. I love building innovative solutions that simplify life and I'm always eager to learn new things. Let's create something amazing together!
 
 
